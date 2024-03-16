@@ -26,7 +26,7 @@
             "value": "",
             "required": true
         },
-        "ELHYBA": {
+        "DARK": {
             "description": "توكن البوت",
             "value": "",
             "required": true
